@@ -293,7 +293,7 @@ ul {
 .modal-container{
   width: 80vw;
   background:var(--white);
-  max-width: 800px;
+  max-width: 700px;
   height: 80vh;
   overflow: scroll;
   border-radius: var(--borderRadius)
@@ -311,6 +311,8 @@ ul {
 
 .modal-content p {
   color: var(--grey-600);
+  text-align: justified;
+  border: 1px black;
 }
 .modal-content a{
   display: block;
