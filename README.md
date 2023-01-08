@@ -2,4 +2,4 @@
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
  
- To view this project, click on this [link](https://replit.com/@aalhadpathare/Meals-Application?v=1) and click on "view website" to run the application in a new browser tab
+ To view this project, click on this [link](https://replit.com/@aalhadpathare/Meals-Application?v=1) and click on "open website" to run the application in a new browser tab
